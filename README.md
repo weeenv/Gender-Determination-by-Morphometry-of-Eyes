@@ -19,3 +19,6 @@ All the training data attached are given as part of the datathon.
 * The notebook contain the code taken to prepare the training data for model training
 * The code used for the setting up of the CNN model involving transfer learning of VGG 16 model and a few more additional layers
 * The code used to prepare the prediction for submission in csv format 
+
+### Final Results
+* In the end, the resulting model is able to correctly predict the gender of the individual in the photo with a 96% accuracy range.
